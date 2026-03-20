@@ -1,0 +1,12 @@
+{
+  "url": "https://camp-fire.jp/projects/search?prefecture=hiroshima&category=food&sort=fresh&project_status=pre&project_status=opened",
+  "domain": "camp-fire",
+  "selectors": {
+    "article": "ol.card-area.svelte-14mc9yn > li.card-wrapper",
+    "title": "h2",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 18
+}

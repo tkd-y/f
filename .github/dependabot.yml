@@ -1,0 +1,22 @@
+version: 2
+updates:
+  # 1. npm（ライブラリ）の依存関係を毎月チェック
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      # 毎月1日の日本時間 午前9:00頃にチェック（UTC 00:00）
+      time: "00:00"
+      timezone: "Asia/Tokyo"
+    # 同時に開くプルリクエストを最大3つに制限（通知の詰め込み防止）
+    open-pull-requests-limit: 3
+
+  # 2. GitHub Actions（自動更新の仕組み）を毎月チェック
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+      time: "00:00"
+      timezone: "Asia/Tokyo"
+    # Actionsは1つに制限
+    open-pull-requests-limit: 1

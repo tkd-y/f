@@ -1,0 +1,16 @@
+{
+  "name": "rfg",
+  "version": "1.0.0",
+  "description": "A system to generate docs from websites.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/api/server.js",
+    "generate": "node scripts/generate-docs.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "cheerio": "^1.2.0",
+    "node-fetch": "^3.3.2",
+    "xmlbuilder2": "^4.0.3"
+  }
+}

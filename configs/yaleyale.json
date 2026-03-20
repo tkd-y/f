@@ -1,0 +1,12 @@
+{
+  "url": "https://yaleyale.jp/",
+  "domain": "yaleyale",
+  "selectors": {
+    "article": "ul.small-banners > div.small-banner",
+    "title": "div.small-banner > a > p",
+    "link": "div.small-banner > a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 62
+}

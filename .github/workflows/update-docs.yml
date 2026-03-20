@@ -1,0 +1,71 @@
+name: Update Docs
+
+on:
+  # 毎日日本時間の午前8時に実行
+  schedule:
+    - cron: '0 23 * * *' # UTCでの23:00はJSTでの翌8:00
+  # GitHubのActionsタブから手動で実行できるようにする
+  workflow_dispatch:
+  # 依存関係の変更時のみPRで実行
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'package*.json'
+
+# 同一ブランチでの同時実行を防止
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# 実行ロボットに与える権限を最小限に制限
+permissions:
+  contents: write
+
+jobs:
+  update-docs:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'pull_request' || github.actor == 'dependabot[bot]'
+
+    steps:
+      # 1. リポジトリのコードをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # 2. Node.js環境をセットアップ（.node-versionファイルと同期）
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version-file: '.node-version'
+          cache: 'npm'
+
+      # 3. 依存関係をインストール（package-lock.jsonを忠実に再現）
+      - name: Install dependencies
+        run: npm ci
+
+      # 4. 生成スクリプトを実行
+      - name: Generate docs
+        run: npm run generate
+
+      # 5. PR時のみ: 生成されたXMLの差分をログに表示（人間が確認するため）
+      - name: Show changes (Pull Request only)
+        if: github.event_name == 'pull_request'
+        run: git diff docs/
+
+      # 6. 変更内容をコミット & プッシュ (PR以外の場合のみ実行)
+      - name: Commit and push if changed
+        if: github.event_name != 'pull_request'
+        run: |
+          # 実行ロボットの情報を設定
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # docsディレクトリの変更をステージング
+          git add docs/
+          
+          # 変更がある場合のみコミット（メッセージは "docs: update generated docs [skip ci]"）とプッシュを実行
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: update generated docs [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

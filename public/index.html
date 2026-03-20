@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Docs</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="form-section">
+      <h2>Configuration</h2>
+      <div class="input-group">
+        <label for="url">URL</label>
+        <input type="url" id="url" placeholder="https://example.com/news">
+      </div>
+
+      <div class="input-group">
+        <label for="selector-article">Article</label>
+        <input type="text" id="selector-article" placeholder="article.post">
+      </div>
+      <div class="input-group">
+        <label for="selector-title">Title</label>
+        <input type="text" id="selector-title" placeholder="h2.entry-title">
+      </div>
+      <div class="input-group">
+        <label for="selector-link">Link</label>
+        <input type="text" id="selector-link" placeholder="a">
+      </div>
+      <div class="input-group">
+        <label for="selector-date">Date</label>
+        <input type="text" id="selector-date" placeholder=".post-date">
+      </div>
+      <div class="input-group">
+        <label for="selector-summary">Summary</label>
+        <input type="text" id="selector-summary" placeholder="p.summary">
+      </div>
+
+      <div class="button-group">
+        <button id="sample-btn">Sample</button>
+        <button id="generate-btn">Docs</button>
+      </div>
+    </div>
+
+    <div class="preview-section">
+      <h2>Sample</h2>
+      <div id="samples-container">
+      </div>
+    </div>
+  </div>
+
+  <div id="toast-container"></div>
+  <script src="app.js"></script>
+</body>
+</html>

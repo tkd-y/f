@@ -1,0 +1,12 @@
+{
+  "url": "https://www.aeontown.co.jp/rakurakuen/gourmetfood/",
+  "domain": "aeontown",
+  "selectors": {
+    "article": "ul.cmn-card-list > li.cmn-card",
+    "title": "div.main-txt",
+    "link": "a",
+    "date": "",
+    "summary": "div.sub-txt"
+  },
+  "maxItems": 40
+}
