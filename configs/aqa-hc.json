@@ -1,0 +1,12 @@
+{
+  "url": "https://www.aqa-hc.com/shops/index.php?genre=genre&no=4",
+  "domain": "aqa-hc",
+  "selectors": {
+    "article": "ul > li.gourmet",
+    "title": "a",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 27
+}

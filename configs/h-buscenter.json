@@ -1,0 +1,12 @@
+{
+  "url": "https://www.h-buscenter.com/basumachi/",
+  "domain": "h-buscenter",
+  "selectors": {
+    "article": "div.box_shop",
+    "title": "p.shopname",
+    "link": "",
+    "date": "",
+    "summary": "p.txt"
+  },
+  "maxItems": 24
+}

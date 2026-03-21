@@ -1,0 +1,12 @@
+{
+  "url": "https://onomichi-hondoori.jp/shop/newshop.php",
+  "domain": "onomichi-hondoori",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p.article-title",
+    "link": "a",
+    "date": "",
+    "summary": "p.period"
+  },
+  "maxItems": 22
+}

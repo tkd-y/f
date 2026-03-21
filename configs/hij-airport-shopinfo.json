@@ -1,0 +1,12 @@
+{
+  "url": "https://www.hij.airport.jp/news/shopinfo/",
+  "domain": "hij-airport-shopinfo",
+  "selectors": {
+    "article": "ul.newsList > li.newsList_item",
+    "title": "a",
+    "link": "a",
+    "date": "span.newsList_date",
+    "summary": ""
+  },
+  "maxItems": 31
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>新店舗一覧 | 尾道本通り商店街の新店舗（グルメ、カフェ、スイーツ、お土産、ファッション、アクセサリー、雑貨、ライフスタイル、ビューティ、ヘルス、サービス）の一覧</title>
+    <link>https://onomichi-hondoori.jp/shop/newshop.php</link>
+    <description>Latest articles</description>
+    <item>
+      <title>豚饅の店 長江</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=121</link>
+      <description>豚まん、中華まん、居酒屋</description>
+    </item>
+    <item>
+      <title>Books&amp;Cafe 灯書堂</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=250</link>
+      <description>本、コーヒー、紅茶、焼菓子</description>
+    </item>
+    <item>
+      <title>tatsuki BAKE</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=249</link>
+    </item>
+    <item>
+      <title>TEA FACTORY GEN</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=244</link>
+    </item>
+    <item>
+      <title>ENTRANCE</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=246</link>
+    </item>
+    <item>
+      <title>ベルエールby菓味工房みやもと</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=245</link>
+    </item>
+    <item>
+      <title>GARDEN</title>
+      <link>https://onomichi-hondoori.jp/shop/detail.php?sp=79</link>
+      <description>ランチ、カフェ、焼菓子、雑貨、お土産等</description>
+    </item>
+  </channel>
+</rss>
