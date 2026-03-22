@@ -1,0 +1,12 @@
+{
+  "url": "https://sun-ste.com/fukuyama/events/?flg=_list&kind=2",
+  "domain": "sun-ste-events",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p.sys-info__title",
+    "link": "a.sys-info__link",
+    "date": "",
+    "summary": "p.sys-info__text"
+  },
+  "maxItems": 17
+}

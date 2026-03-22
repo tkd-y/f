@@ -1,0 +1,12 @@
+{
+  "url": "https://sun-ste.com/fukuyama/gourmet/",
+  "domain": "sun-ste-gourmet",
+  "selectors": {
+    "article": "div.gourmet-shop > div.gourmet-shop__item",
+    "title": "p.gourmet-shop__name",
+    "link": "a",
+    "date": "",
+    "summary": "p.gourmet-shop__floor"
+  },
+  "maxItems": 32
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://www.minamoa-ekie.jp/event/?state=scheduled",
+  "domain": "minamoa-ekie-event",
+  "selectors": {
+    "article": "div.c-post-listing > div.c-post-item",
+    "title": "p.title",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 31
+}
