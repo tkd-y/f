@@ -1,0 +1,12 @@
+{
+  "url": "https://gion.aeonmall.com/special/lists/newshopinformation",
+  "domain": "gion-aeonmall",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p",
+    "link": "",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 17
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>レストラン・フード｜ショップ一覧｜ゆめテラス祇園｜イズミ・ゆめタウン公式サイト｜広島県広島市</title>
+    <link>https://www.izumi.jp/tenpo/youmeterrace-gion/shop/food</link>
+    <description>Latest articles</description>
+    <item>
+      <title>ごちそうおむすび膳七</title>
+      <link>https://www.izumi.jp/tenpo/youmeterrace-gion/shop/food/zenshichi</link>
+      <description>3F
+                                      レストラン・フード
+                                      おむすび</description>
+    </item>
+    <item>
+      <title>シャトレーゼ</title>
+      <link>https://www.izumi.jp/tenpo/youmeterrace-gion/shop/food/chateraise</link>
+      <description>別棟
+                                      レストラン・フード
+                                      スイーツ</description>
+    </item>
+    <item>
+      <title>シマウマバーガー</title>
+      <link>https://www.izumi.jp/tenpo/youmeterrace-gion/shop/food/shimaumaburger</link>
+      <description>3F
+                                      レストラン・フード
+                                      ハンバーガー</description>
+    </item>
+    <item>
+      <title>ケンタッキーフライドチキン</title>
+      <link>https://www.izumi.jp/tenpo/youmeterrace-gion/shop/food/kfc</link>
+      <description>3F
+                                      レストラン・フード
+                                      ファーストフード</description>
+    </item>
+  </channel>
+</rss>

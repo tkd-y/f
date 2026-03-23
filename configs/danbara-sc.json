@@ -1,0 +1,12 @@
+{
+  "url": "https://danbara-sc.com/shop/lists/shop_genre_id:8,9",
+  "domain": "danbara-sc",
+  "selectors": {
+    "article": "ul > li",
+    "title": "h3",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 28
+}

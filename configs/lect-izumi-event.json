@@ -1,0 +1,12 @@
+{
+  "url": "https://lect.izumi.jp/event/?genre=POP%20UP%20SHOP,%E5%B1%8B%E5%A4%96%20EVENT#eventlist",
+  "domain": "lect-izumi-event",
+  "selectors": {
+    "article": "ul#js-eventNews.eventBnrList > li",
+    "title": "p.note",
+    "link": "a",
+    "date": "p.update",
+    "summary": "p.date"
+  },
+  "maxItems": 24
+}

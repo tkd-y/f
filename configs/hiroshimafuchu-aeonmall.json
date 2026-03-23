@@ -1,0 +1,12 @@
+{
+  "url": "https://hiroshimafuchu-aeonmall.com/special/lists/newopen_shop",
+  "domain": "hiroshimafuchu-aeonmall",
+  "selectors": {
+    "article": "ul > li",
+    "title": "dl.shopInfo dd > a",
+    "link": "dl.shopInfo dd > a",
+    "date": "",
+    "summary": "p"
+  },
+  "maxItems": 24
+}
