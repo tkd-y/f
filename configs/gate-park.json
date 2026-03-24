@@ -1,0 +1,12 @@
+{
+  "url": "https://gate-park.jp/shop/",
+  "domain": "gate-park",
+  "selectors": {
+    "article": "div.shop-inner > article",
+    "title": "h2",
+    "link": "a",
+    "date": "",
+    "summary": "p.desc"
+  },
+  "maxItems": 35
+}

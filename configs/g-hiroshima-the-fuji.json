@@ -1,0 +1,12 @@
+{
+  "url": "https://g-hiroshima.the-fuji.com/shop_guide/gourmet/",
+  "domain": "g-hiroshima-the-fuji",
+  "selectors": {
+    "article": "ul > li",
+    "title": "h4",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 41
+}

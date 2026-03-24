@@ -1,0 +1,12 @@
+{
+  "url": "https://www.higashihiroshima-fuji.com/tenant/?cat=tenant_cat_food&s=",
+  "domain": "higashihiroshima-fuji",
+  "selectors": {
+    "article": "div.row > div.col-md-4",
+    "title": "dd.name",
+    "link": "a",
+    "date": "",
+    "summary": "dd.genre"
+  },
+  "maxItems": 34
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://the-outlets-hiroshima.com/shop-guide/search?genre=gourmet",
+  "domain": "the-outlets-hiroshima",
+  "selectors": {
+    "article": "ul.result-shop > li",
+    "title": "span.ruby",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 60
+}
