@@ -1,0 +1,12 @@
+{
+  "url": "https://www.sunmall.co.jp/?floor=floorb1",
+  "domain": "sunmall",
+  "selectors": {
+    "article": "td",
+    "title": "a",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 22
+}

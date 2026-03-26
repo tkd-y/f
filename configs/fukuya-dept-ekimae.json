@@ -1,0 +1,12 @@
+{
+  "url": "https://www.fukuya-dept.co.jp/gourmets/?id=2",
+  "domain": "fukuya-dept-ekimae",
+  "selectors": {
+    "article": "div.box",
+    "title": "p",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 32
+}

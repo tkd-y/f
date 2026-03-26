@@ -1,0 +1,12 @@
+{
+  "url": "https://www.fukuya-dept.co.jp/ekimae/pickup/",
+  "domain": "fukuya-dept-ekimae-pickup",
+  "selectors": {
+    "article": "div.detail > div.article",
+    "title": "h2",
+    "link": "",
+    "date": "",
+    "summary": "p"
+  },
+  "maxItems": 65
+}

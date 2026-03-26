@@ -1,0 +1,12 @@
+{
+  "url": "https://www.fukuya-dept.co.jp/honten/pickup",
+  "domain": "fukuya-dept-honten-pickup",
+  "selectors": {
+    "article": "div.detail > div.article",
+    "title": "h2",
+    "link": "",
+    "date": "",
+    "summary": "p"
+  },
+  "maxItems": 89
+}
