@@ -1,0 +1,12 @@
+{
+  "url": "https://hiroshima.parco.jp/newrenewal/",
+  "domain": "hiroshima-parco-newrenewal",
+  "selectors": {
+    "article": "ul > li",
+    "title": "div.c-card04__txt02",
+    "link": "a",
+    "date": "",
+    "summary": "div.c-card04__ctg"
+  },
+  "maxItems": 27
+}

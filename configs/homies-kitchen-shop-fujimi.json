@@ -1,0 +1,12 @@
+{
+  "url": "https://www.homies-kitchen.jp/shop/shop_fujimi/",
+  "domain": "homies-kitchen-shop-fujimi",
+  "selectors": {
+    "article": "div.shop-box-wrap > div.shop-box",
+    "title": "span.shop-name--lg",
+    "link": "a",
+    "date": "",
+    "summary": "p.shop-info-text"
+  },
+  "maxItems": 23
+}

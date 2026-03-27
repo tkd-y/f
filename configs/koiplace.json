@@ -1,0 +1,12 @@
+{
+  "url": "https://koiplace.jp/",
+  "domain": "koiplace",
+  "selectors": {
+    "article": "div.project-shop > div.row > div.project-shop_inner.col-md-6",
+    "title": "h4",
+    "link": "a",
+    "date": "",
+    "summary": "p"
+  },
+  "maxItems": 20
+}

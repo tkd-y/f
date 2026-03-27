@@ -1,0 +1,12 @@
+{
+  "url": "https://hiroshima.parco.jp/event/",
+  "domain": "hiroshima-parco-event",
+  "selectors": {
+    "article": "ul > li",
+    "title": "div.c-card02__txt01",
+    "link": "a",
+    "date": "",
+    "summary": "div.c-card02__tag"
+  },
+  "maxItems": 22
+}
