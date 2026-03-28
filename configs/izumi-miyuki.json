@@ -1,0 +1,12 @@
+{
+  "url": "https://www.izumi.jp/tenpo/miyuki/shop/food",
+  "domain": "izumi-miyuki",
+  "selectors": {
+    "article": "ul > li",
+    "title": "div.f_card_shop_01__title",
+    "link": "a",
+    "date": "",
+    "summary": "ul.s_category"
+  },
+  "maxItems": 24
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>レストラン・フード｜ショップ一覧｜ゆめモール五日市｜イズミ・ゆめタウン公式サイト｜広島県広島市佐伯区</title>
+    <link>https://www.izumi.jp/tenpo/itsukaichi/shop/food</link>
+    <description>Latest articles</description>
+    <item>
+      <title>コメダ珈琲店</title>
+      <link>https://www.izumi.jp/tenpo/itsukaichi/shop/food/komedacoffee</link>
+      <description>別館
+                                      レストラン・フード
+                                      カフェ</description>
+    </item>
+    <item>
+      <title>やよい軒</title>
+      <link>https://www.izumi.jp/tenpo/itsukaichi/shop/food/yayoiken</link>
+      <description>別館
+                                      レストラン・フード
+                                      レストラン</description>
+    </item>
+  </channel>
+</rss>

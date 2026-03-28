@@ -1,0 +1,12 @@
+{
+  "url": "https://fyjp.jp/shoptop.html",
+  "domain": "fyjp",
+  "selectors": {
+    "article": "ul.shoptop > li",
+    "title": "a",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 21
+}
