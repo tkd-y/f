@@ -1,0 +1,12 @@
+{
+  "url": "https://www.izumi.jp/tenpo/yoshida/shop/food",
+  "domain": "izumi-yoshida",
+  "selectors": {
+    "article": "ul > li",
+    "title": "div.f_card_shop_01__title",
+    "link": "a",
+    "date": "",
+    "summary": "ul.s_category"
+  },
+  "maxItems": 20
+}

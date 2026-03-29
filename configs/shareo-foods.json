@@ -1,0 +1,12 @@
+{
+  "url": "https://www.shareo.net/foods/",
+  "domain": "shareo-foods",
+  "selectors": {
+    "article": "div.record-lists > div.record",
+    "title": "a.area-font",
+    "link": "a",
+    "date": "",
+    "summary": "div.type008-txt"
+  },
+  "maxItems": 21
+}

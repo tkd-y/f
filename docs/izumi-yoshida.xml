@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>レストラン・フード｜ショップ一覧｜ゆめタウン吉田｜イズミ・ゆめタウン公式サイト｜広島県安芸高田市</title>
+    <link>https://www.izumi.jp/tenpo/yoshida/shop/food</link>
+    <description>Latest articles</description>
+    <item>
+      <title>うどん亭郡山</title>
+      <link>https://www.izumi.jp/tenpo/yoshida/shop/food/udonteikoriyama</link>
+      <description>1F
+                                      レストラン・フード
+                                      うどん</description>
+    </item>
+    <item>
+      <title>ジョイフル</title>
+      <link>https://www.izumi.jp/tenpo/yoshida/shop/food/joyful</link>
+      <description>別棟
+                                      レストラン・フード
+                                      ファミリーレストラン</description>
+    </item>
+    <item>
+      <title>麺や一番</title>
+      <link>https://www.izumi.jp/tenpo/yoshida/shop/food/menyaichiban</link>
+      <description>1F
+                                      レストラン・フード
+                                      ラーメン</description>
+    </item>
+    <item>
+      <title>ゆめ菓子工房</title>
+      <link>https://www.izumi.jp/tenpo/yoshida/shop/food/yomekashi</link>
+      <description>1F
+                                      レストラン・フード
+                                      和菓子</description>
+    </item>
+    <item>
+      <title>FUJIYA</title>
+      <link>https://www.izumi.jp/tenpo/yoshida/shop/food/fujiya</link>
+      <description>1F
+                                      レストラン・フード
+                                      洋菓子</description>
+    </item>
+  </channel>
+</rss>

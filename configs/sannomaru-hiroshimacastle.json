@@ -1,0 +1,12 @@
+{
+  "url": "https://sannomaru.hiroshimacastle.jp/tenant/",
+  "domain": "sannomaru-hiroshimacastle",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p.mincho.tenant_blue",
+    "link": "",
+    "date": "",
+    "summary": "p.mincho.tagline"
+  },
+  "maxItems": 20
+}

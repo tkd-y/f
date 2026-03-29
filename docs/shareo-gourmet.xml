@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>グルメ｜紙屋町シャレオ</title>
+    <link>https://www.shareo.net/gourmet/</link>
+    <description>Latest articles</description>
+    <item>
+      <title>羽前そば道場　極［うぜんそばどうじょう　きわめ］</title>
+      <link>https://www.shareo.net/pages/75/</link>
+      <description>西通り 11／グルメ日本そば専門店</description>
+    </item>
+    <item>
+      <title>洋麺屋　五右衛門</title>
+      <link>https://www.shareo.net/pages/110/</link>
+      <description>西通り 12／グルメスパゲッティー専門店</description>
+    </item>
+    <item>
+      <title>アフタヌーンティー・ティールーム</title>
+      <link>https://www.shareo.net/pages/111/</link>
+      <description>北通り 2／グルメティールーム</description>
+    </item>
+    <item>
+      <title>カフェ・ド・クリエ</title>
+      <link>https://www.shareo.net/pages/112/</link>
+      <description>東通り 16／グルメカフェ</description>
+    </item>
+    <item>
+      <title>サブウェイ</title>
+      <link>https://www.shareo.net/pages/113/</link>
+      <description>南通り 8／グルメサンドウィッチ</description>
+    </item>
+    <item>
+      <title>スターバックス コーヒー</title>
+      <link>https://www.shareo.net/pages/82/</link>
+      <description>南通り 7／グルメコーヒーストア</description>
+    </item>
+    <item>
+      <title>タリーズコーヒー</title>
+      <link>https://www.shareo.net/pages/114/</link>
+      <description>西通り 29／グルメコーヒーストア</description>
+    </item>
+    <item>
+      <title>ナチュラル バナナ</title>
+      <link>https://www.shareo.net/pages/115/</link>
+      <description>東通り 10／グルメバナナジュース専門店</description>
+    </item>
+  </channel>
+</rss>
