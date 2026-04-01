@@ -1,0 +1,12 @@
+{
+  "url": "https://www.kure-recre.com/wp/wordpress/archives/category/01gurume",
+  "domain": "kure-recre",
+  "selectors": {
+    "article": "ol > li",
+    "title": "a.title",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 18
+}

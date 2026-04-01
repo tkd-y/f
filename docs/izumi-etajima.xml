@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>レストラン・フード｜ショップ一覧｜ゆめタウン江田島｜イズミ・ゆめタウン公式サイト｜広島県江田島市</title>
+    <link>https://www.izumi.jp/tenpo/etajima/shop/food</link>
+    <description>Latest articles</description>
+    <item>
+      <title>ラソイ</title>
+      <link>https://www.izumi.jp/tenpo/etajima/shop/food/rasoi</link>
+      <description>1F
+                                      レストラン・フード
+                                      カレー</description>
+    </item>
+    <item>
+      <title>ジョイフル</title>
+      <link>https://www.izumi.jp/tenpo/etajima/shop/food/joyful</link>
+      <description>別棟
+                                      レストラン・フード
+                                      ファミリーレストラン</description>
+    </item>
+    <item>
+      <title>アルパティオ</title>
+      <link>https://www.izumi.jp/tenpo/etajima/shop/food/alpatio</link>
+      <description>1F
+                                      レストラン・フード
+                                      レストラン</description>
+    </item>
+    <item>
+      <title>花まつり</title>
+      <link>https://www.izumi.jp/tenpo/etajima/shop/food/hanamatsuri</link>
+      <description>1F
+                                      レストラン・フード
+                                      寿司</description>
+    </item>
+  </channel>
+</rss>
