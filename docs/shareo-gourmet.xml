@@ -5,19 +5,14 @@
     <link>https://www.shareo.net/gourmet/</link>
     <description>Latest articles</description>
     <item>
-      <title>羽前そば道場　極［うぜんそばどうじょう　きわめ］</title>
-      <link>https://www.shareo.net/pages/75/</link>
-      <description>西通り 11／グルメ日本そば専門店</description>
-    </item>
-    <item>
-      <title>洋麺屋　五右衛門</title>
-      <link>https://www.shareo.net/pages/110/</link>
-      <description>西通り 12／グルメスパゲッティー専門店</description>
-    </item>
-    <item>
       <title>アフタヌーンティー・ティールーム</title>
       <link>https://www.shareo.net/pages/111/</link>
       <description>北通り 2／グルメティールーム</description>
+    </item>
+    <item>
+      <title>羽前そば道場　極［うぜんそばどうじょう　きわめ］</title>
+      <link>https://www.shareo.net/pages/75/</link>
+      <description>西通り 11／グルメ日本そば専門店</description>
     </item>
     <item>
       <title>カフェ・ド・クリエ</title>
@@ -43,6 +38,11 @@
       <title>ナチュラル バナナ</title>
       <link>https://www.shareo.net/pages/115/</link>
       <description>東通り 10／グルメバナナジュース専門店</description>
+    </item>
+    <item>
+      <title>洋麺屋　五右衛門</title>
+      <link>https://www.shareo.net/pages/110/</link>
+      <description>西通り 12／グルメスパゲッティー専門店</description>
     </item>
   </channel>
 </rss>
