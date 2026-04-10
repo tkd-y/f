@@ -1,0 +1,12 @@
+{
+  "url": "https://lect.izumi.jp/openclose/",
+  "domain": "lect-izumi-openclose",
+  "selectors": {
+    "article": "ul#js-shopNews.openCloseList > li",
+    "title": "p.note",
+    "link": "a",
+    "date": "p.update",
+    "summary": ""
+  },
+  "maxItems": 18
+}

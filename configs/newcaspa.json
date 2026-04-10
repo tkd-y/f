@@ -1,0 +1,12 @@
+{
+  "url": "https://newcaspa.com/",
+  "domain": "newcaspa",
+  "selectors": {
+    "article": "ul.news_topic_top2 > li",
+    "title": "div.a2",
+    "link": "",
+    "date": "",
+    "summary": "div.a3"
+  },
+  "maxItems": 28
+}
