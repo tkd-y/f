@@ -5,6 +5,11 @@
     <link>https://hiroshima.parco.jp/newrenewal/</link>
     <description>Latest articles</description>
     <item>
+      <title>BIRKENSTOCK</title>
+      <link>https://hiroshima.parco.jp/newrenewal/detail/?id=37016</link>
+      <description>NEW OPEN</description>
+    </item>
+    <item>
       <title>LOFT</title>
       <link>https://hiroshima.parco.jp/newrenewal/detail/?id=36440</link>
       <description>NEW OPEN</description>
@@ -58,11 +63,6 @@
       <title>KBF</title>
       <link>https://hiroshima.parco.jp/newrenewal/detail/?id=36238</link>
       <description>RENEWAL</description>
-    </item>
-    <item>
-      <title>FURN＆CO.</title>
-      <link>https://hiroshima.parco.jp/newrenewal/detail/?id=36237</link>
-      <description>NEW OPEN</description>
     </item>
   </channel>
 </rss>
