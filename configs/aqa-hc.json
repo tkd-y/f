@@ -1,0 +1,12 @@
+{
+  "url": "https://www.aqa-hc.com/topics/index.php",
+  "domain": "aqa-hc",
+  "selectors": {
+    "article": "ul > li",
+    "title": "h3",
+    "link": "a",
+    "date": "div.article_date",
+    "summary": ""
+  },
+  "maxItems": 25
+}
