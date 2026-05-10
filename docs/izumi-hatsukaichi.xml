@@ -75,13 +75,6 @@
                                       ジェラート</description>
     </item>
     <item>
-      <title>アバンセ</title>
-      <link>https://www.izumi.jp/tenpo/hatsukaichi/shop/food/avance</link>
-      <description>1F
-                                      レストラン・フード
-                                      スーパーマーケット</description>
-    </item>
-    <item>
       <title>菓匠茶屋</title>
       <link>https://www.izumi.jp/tenpo/hatsukaichi/shop/food/kashouchaya</link>
       <description>1F
@@ -322,13 +315,6 @@
     <item>
       <title>一風堂</title>
       <link>https://www.izumi.jp/tenpo/hatsukaichi/shop/food/ippudo-0</link>
-      <description>3F
-                                      レストラン・フード
-                                      麺類</description>
-    </item>
-    <item>
-      <title>近江ちゃんぽん亭</title>
-      <link>https://www.izumi.jp/tenpo/hatsukaichi/shop/food/oumichanpontei</link>
       <description>3F
                                       レストラン・フード
                                       麺類</description>
