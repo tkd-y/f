@@ -1,0 +1,12 @@
+{
+  "url": "https://danbara-sc.aeonmall.jp/news?tab=renewal",
+  "domain": "danbara-sc-aeonmall",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p.name",
+    "link": "a",
+    "date": "",
+    "summary": "p.info"
+  },
+  "maxItems": 16
+}
