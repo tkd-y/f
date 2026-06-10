@@ -1,0 +1,12 @@
+{
+  "url": "https://www.alpark.jp/event/future",
+  "domain": "alpark-event",
+  "selectors": {
+    "article": "ul > li",
+    "title": "div.list-text",
+    "link": "a",
+    "date": "",
+    "summary": ""
+  },
+  "maxItems": 27
+}
