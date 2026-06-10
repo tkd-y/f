@@ -1,0 +1,12 @@
+{
+  "url": "https://www.alpark.jp/shopsearch/gourmet",
+  "domain": "alpark",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p.s-name",
+    "link": "a",
+    "date": "",
+    "summary": "p.s-floor"
+  },
+  "maxItems": 45
+}
