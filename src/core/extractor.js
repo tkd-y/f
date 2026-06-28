@@ -1,6 +1,5 @@
 import fetch from 'node-fetch';
 import * as cheerio from 'cheerio';
-import { URL } from 'url';
 
 /**
  * 指定されたURLから記事データとページタイトルを抽出する
