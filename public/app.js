@@ -65,8 +65,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const selectors = getSelectors();
     if (!selectors) return;
     
-    // showMessage('Generating RSS feed...', 'info'); // This line is removed as per user request
-
     try {
       const response = await fetch('/api/generate', {
         method: 'POST',
@@ -81,7 +79,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const data = await response.json();
       showMessage(data.message, 'success');
       clearInputFields(); // Clear input fields on successful generation
-      // The link to the feed is now logged to the console for simplicity.
       console.log(`Feed available at: ${window.location.origin}${data.feedPath}`);
 
     } catch (error) {
@@ -118,20 +115,40 @@ document.addEventListener('DOMContentLoaded', () => {
     samplesContainer.innerHTML = ''; // Reset sample preview area
   }
   
+  function escapeHTML(str) {
+    if (!str) return '';
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
   function renderSamples(samples) {
     if (!samples || samples.length === 0) {
       showMessage('No articles found with the given selectors.', 'info');
-      // samplesContainer.innerHTML = '<p>No articles found.</p>'; // This line is removed
       return;
     }
 
-    const html = samples.map(article => `
-      <div class="sample-item">
-        <h4>${article.link ? `<a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title || 'No Title'}</a>` : `<span>${article.title || 'No Title'}</span>`}</h4>
-        <p class="date">${article.date || 'No Date'}</p>
-        <p class="summary">${article.summary || 'No Summary'}</p>
-      </div>
-    `).join('');
+    const html = samples.map(article => {
+      const titleText = escapeHTML(article.title) || 'No Title';
+      const linkUrl = article.link ? escapeHTML(article.link) : null;
+      const dateText = escapeHTML(article.date) || 'No Date';
+      const summaryText = escapeHTML(article.summary) || 'No Summary';
+
+      const titleHtml = linkUrl
+        ? `<a href="${linkUrl}" target="_blank" rel="noopener noreferrer">${titleText}</a>`
+        : `<span>${titleText}</span>`;
+
+      return `
+        <div class="sample-item">
+          <h4>${titleHtml}</h4>
+          <p class="date">${dateText}</p>
+          <p class="summary">${summaryText}</p>
+        </div>
+      `;
+    }).join('');
 
     samplesContainer.innerHTML = html;
   }
