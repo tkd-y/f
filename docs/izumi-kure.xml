@@ -5,6 +5,20 @@
     <link>https://www.izumi.jp/tenpo/kure/shop/food</link>
     <description>Latest articles</description>
     <item>
+      <title>サイゼリヤ</title>
+      <link>https://www.izumi.jp/tenpo/kure/shop/food/saizeriya</link>
+      <description>レクレ3F
+                                      レストラン・フード
+                                      イタリアン・ワイン</description>
+    </item>
+    <item>
+      <title>うまいもん屋 五ェ門</title>
+      <link>https://www.izumi.jp/tenpo/kure/shop/food/goemon</link>
+      <description>レクレ3F
+                                      レストラン・フード
+                                      お好み焼き・たこ焼き</description>
+    </item>
+    <item>
       <title>OKONOMI ICHIBANCHI</title>
       <link>https://www.izumi.jp/tenpo/kure/shop/food/okonomiichibanchi</link>
       <description>3F
@@ -89,11 +103,25 @@
                                       ファーストフード</description>
     </item>
     <item>
+      <title>バーガーキング</title>
+      <link>https://www.izumi.jp/tenpo/kure/shop/food/burgerking</link>
+      <description>レクレ3F
+                                      レストラン・フード
+                                      ファストフード</description>
+    </item>
+    <item>
       <title>【6月20日(土曜日)オープン】ケンタッキーフライドチキン</title>
       <link>https://www.izumi.jp/tenpo/kure/shop/food/kfc</link>
       <description>1F
                                       レストラン・フード
                                       ファストフード</description>
+    </item>
+    <item>
+      <title>【7月10日(金曜日)オープン予定】天下一品</title>
+      <link>https://www.izumi.jp/tenpo/kure/shop/food/tenkaippin</link>
+      <description>レクレ3F
+                                      レストラン・フード
+                                      ラーメン</description>
     </item>
     <item>
       <title>みなと軒</title>
@@ -122,6 +150,20 @@
       <description>1F
                                       レストラン・フード
                                       和菓子</description>
+    </item>
+    <item>
+      <title>和香菜</title>
+      <link>https://www.izumi.jp/tenpo/kure/shop/food/wakana</link>
+      <description>レクレ3F
+                                      レストラン・フード
+                                      和食</description>
+    </item>
+    <item>
+      <title>黒豚餃子 もつ鍋 馬刺し　九州魂</title>
+      <link>https://www.izumi.jp/tenpo/kure/shop/food/kyushudamashii</link>
+      <description>レクレ3F
+                                      レストラン・フード
+                                      和食</description>
     </item>
     <item>
       <title>百菜</title>
