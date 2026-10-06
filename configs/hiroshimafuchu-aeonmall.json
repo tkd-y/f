@@ -1,0 +1,12 @@
+{
+  "url": "https://hiroshimafuchu.aeonmall.jp/news?tab=renewal",
+  "domain": "hiroshimafuchu-aeonmall",
+  "selectors": {
+    "article": "ul > li",
+    "title": "p.name",
+    "link": "a",
+    "date": "p.info",
+    "summary": "p.tenant"
+  },
+  "maxItems": 18
+}
