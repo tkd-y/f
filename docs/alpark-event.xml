@@ -5,10 +5,6 @@
     <link>https://www.alpark.jp/event/future</link>
     <description>Latest articles</description>
     <item>
-      <title>KENTO【マジシャン先生】          2026.10.24(土)</title>
-      <link>https://www.alpark.jp/event/detail/244?publish_begin=26-10-13&amp;publish_end=26-10-24&amp;hold_calendar=26-10-24~26-10-24</link>
-    </item>
-    <item>
       <title>第5回 アルこすパ          2026.10.25(日)</title>
       <link>https://www.alpark.jp/event/detail/224?publish_begin=26-09-24&amp;publish_end=26-10-25&amp;hold_calendar=26-10-25~26-10-25</link>
     </item>
@@ -33,8 +29,24 @@
       <link>https://www.alpark.jp/event/detail/252?publish_begin=26-10-23&amp;publish_end=26-11-07&amp;hold_calendar=26-11-07~26-11-07</link>
     </item>
     <item>
-      <title>★毎週木曜日はポイントアップデー          2026.10.29(木)、2026.11.5(木)</title>
-      <link>https://www.alpark.jp/event/detail/59?publish_begin=26-01-15&amp;publish_end=&amp;hold_calendar=26-10-22~26-10-22|26-10-29~26-10-29|26-11-05~26-11-05</link>
+      <title>よさこい＆高知フェア          2026.11.7(土)～11.8(日)</title>
+      <link>https://www.alpark.jp/event/detail/247?publish_begin=26-10-23&amp;publish_end=26-11-08&amp;hold_calendar=26-11-07~26-11-08</link>
+    </item>
+    <item>
+      <title>【シン・マリホ水族館】いきもの〇×クイズラリー          2026.11.7(土)～11.8(日)、2026.11.14(土)～11.15(日)</title>
+      <link>https://www.alpark.jp/event/detail/249?publish_begin=26-10-23&amp;publish_end=26-11-15&amp;hold_calendar=26-11-07~26-11-08|26-11-14~26-11-15</link>
+    </item>
+    <item>
+      <title>11月 季節水槽テーマ「銀杏と紅葉」          2026.11.7(土)～11.29(日)</title>
+      <link>https://www.alpark.jp/event/detail/248?publish_begin=26-10-23&amp;publish_end=26-11-29&amp;hold_calendar=26-11-07~26-11-29</link>
+    </item>
+    <item>
+      <title>11月 シン・マリホ水族館DE秋祭り          2026.11.20(金)～11.23(月・祝)</title>
+      <link>https://www.alpark.jp/event/detail/250?publish_begin=26-10-23&amp;publish_end=26-11-23&amp;hold_calendar=26-11-20~26-11-23</link>
+    </item>
+    <item>
+      <title>★毎週木曜日はポイントアップデー          2026.10.29(木)、2026.11.5(木)、2026.11.12(木)</title>
+      <link>https://www.alpark.jp/event/detail/59?publish_begin=26-01-15&amp;publish_end=&amp;hold_calendar=26-10-29~26-10-29|26-11-05~26-11-05|26-11-12~26-11-12</link>
     </item>
   </channel>
 </rss>
