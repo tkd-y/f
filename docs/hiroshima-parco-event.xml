@@ -5,11 +5,6 @@
     <link>https://hiroshima.parco.jp/event/</link>
     <description>Latest articles</description>
     <item>
-      <title>9090</title>
-      <link>https://hiroshima.parco.jp/event/detail/?id=39130</link>
-      <description>POPUP</description>
-    </item>
-    <item>
       <title>仮面ライダーストア</title>
       <link>https://hiroshima.parco.jp/event/detail/?id=38836</link>
       <description>POPUP</description>
@@ -17,6 +12,11 @@
     <item>
       <title>HYSTERIC MINI POPUP SHOP</title>
       <link>https://hiroshima.parco.jp/event/detail/?id=39276</link>
+      <description>POPUP</description>
+    </item>
+    <item>
+      <title>9090</title>
+      <link>https://hiroshima.parco.jp/event/detail/?id=39130</link>
       <description>POPUP</description>
     </item>
     <item>
