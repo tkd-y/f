@@ -1,0 +1,12 @@
+{
+  "url": "https://isonoseimen.co.jp/topics",
+  "domain": "isonoseimen",
+  "selectors": {
+    "article": "div#archive_post_list > div.post_item",
+    "title": "a",
+    "link": "a",
+    "date": "time.entry-date",
+    "summary": ""
+  },
+  "maxItems": 25
+}
