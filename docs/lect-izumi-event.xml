@@ -5,12 +5,6 @@
     <link>https://lect.izumi.jp/event/?genre=POP%20UP%20SHOP,%E5%B1%8B%E5%A4%96%20EVENT#eventlist</link>
     <description>Latest articles</description>
     <item>
-      <title>【カインズ工房】ロゼットのパウダールームボックス(...</title>
-      <link>https://lect.izumi.jp/event/blog/2026/10/c-11-01.html</link>
-      <description>11月1日(日曜日)・26日(木曜日)   
-                          10時～12時</description>
-    </item>
-    <item>
       <title>【カインズ工房】フラワーカート型多肉プランター(予...</title>
       <link>https://lect.izumi.jp/event/blog/2026/10/c-11-02.html</link>
       <description>11月3日(祝日・火曜日)・29日(日曜日)   
@@ -61,15 +55,6 @@
       <link>https://lect.izumi.jp/event/blog/2026/11/1125-santa-reception.html</link>
     </item>
     <item>
-      <title>キッズコアトレ教室</title>
-      <link>https://lect.izumi.jp/event/blog/2026/10/l-11-27.html</link>
-      <description>11月26日(木曜日)   
-                          ①11時
-②13時
-③15時
-※各回30分程度</description>
-    </item>
-    <item>
       <title>オッペン化粧品 ～座ったままクイック体感２選～</title>
       <link>https://lect.izumi.jp/event/blog/2026/10/l-11-28.html</link>
       <description>11月27日(金曜日)   
@@ -110,10 +95,41 @@
 ③15時</description>
     </item>
     <item>
+      <title>赤ちゃん運動会</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-01.html</link>
+      <description>12月1日(火曜日) 
+                          (1)11時
+(2)13時
+(3)15時
+※各回30分程度</description>
+    </item>
+    <item>
       <title>『IC4DESIGN』POP UP STORE</title>
       <link>https://lect.izumi.jp/event/blog/2026/11/t-12-03.html</link>
       <description>12月1日(火曜日)～31日(木曜日) 
                           10時～21時</description>
+    </item>
+    <item>
+      <title>ベビーマッサージ</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-02.html</link>
+      <description>12月2日(水曜日) 
+                          (1)11時
+(2)13時
+※各回30分程度</description>
+    </item>
+    <item>
+      <title>手形アート</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-03.html</link>
+      <description>12月2日(水曜日) 
+                          (1)10時30分～12時20分
+(2)13時20分～16時
+※15時30分受付終了</description>
+    </item>
+    <item>
+      <title>～おとなの習い事～  FLOWER SHOP MI...</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-04.html</link>
+      <description>12月2日(水曜日) 
+                          15時～16時30分</description>
     </item>
     <item>
       <title>『博多餃子 八助』POP UP SHOP</title>
@@ -122,35 +138,28 @@
                           10時～19時</description>
     </item>
     <item>
-      <title>『hoop』POP UP STORE</title>
-      <link>https://lect.izumi.jp/event/blog/2026/11/t-12-04.html</link>
-      <description>12月9日(水曜日)～22日(火曜日) 
-                          10時～20時 ※最終日18時まで</description>
+      <title>親子でリズム運動</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-05.html</link>
+      <description>12月3日(木曜日) 
+                          (1)11時
+(2)13時
+(3)15時
+※各回30分程度</description>
     </item>
     <item>
-      <title>【フットサル大会】LECTカップ2026</title>
-      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-27.html</link>
-      <description>12月20日(日曜日) 
-                          11時～17時
-※10時30分受付開始</description>
+      <title>リトミック音楽教室</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-06.html</link>
+      <description>12月4日(金曜日) 
+                          (1)11時
+(2)13時
+(3)15時
+※各回30分程度</description>
     </item>
     <item>
-      <title>第87回 廣島Mercato</title>
-      <link>https://lect.izumi.jp/event/blog/2026/11/t-12-05.html</link>
-      <description>12月20日(日曜日) 
-                          10時～15時</description>
-    </item>
-    <item>
-      <title>天平フーズ「キムチ」POP UP STORE</title>
-      <link>https://lect.izumi.jp/event/blog/2026/11/t-12-06.html</link>
-      <description>2026年12月24日(木曜日)～2027年1月5日(火曜日) 
-                          10時～20時 ※最終日19時まで</description>
-    </item>
-    <item>
-      <title>『おほしんたろう』POP UP STORE</title>
-      <link>https://lect.izumi.jp/event/blog/2026/11/t-12-07.html</link>
-      <description>2026年12月27日(日曜日)～2027年1月14日(木曜日) 
-                          8時～21時30分</description>
+      <title>LECT防災王国</title>
+      <link>https://lect.izumi.jp/event/blog/2026/11/l-12-08.html</link>
+      <description>12月5日(土曜日) 
+                          11時～15時</description>
     </item>
   </channel>
 </rss>
